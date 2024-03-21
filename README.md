@@ -60,6 +60,7 @@ SQL Queries
 
 
 Location Store:
+
 For every county in the United States and export a list of all counties sorted from highest score to lowest score.
 Generate an algorithm that gives a numerical score (ranging from 0 to 100) based on data and key factors that are specified by the customer.
 ---------------------------------------------------------------------------------------------------------------------------

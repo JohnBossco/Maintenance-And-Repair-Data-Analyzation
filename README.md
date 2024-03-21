@@ -57,3 +57,19 @@ SQL Queries
 2 d) Find the 10 counties with the highest population whose 2012 exports value is over 25 trillion and also have a higher Annual Average Establishment Count in Construction than in Manufacturing.
 -----------------------------------------------------------------------------------------------------------------------------------------
 ![msedge_HVzXZOPL5K](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/4c890b91-444f-4e64-a25e-773ec1773e57)
+
+
+Location Store:
+For every county in the United States and export a list of all counties sorted from highest score to lowest score.
+Generate an algorithm that gives a numerical score (ranging from 0 to 100) based on data and key factors that are specified by the customer.
+---------------------------------------------------------------------------------------------------------------------------
+Customer Specifications: 
+Location with relatively low average wages in the service-providing industry; Location with low tax rates; Location with high median income; Location with high unemployment
+----------------------------------------------------------------------------
+
+![Code_5bk5wxJ3hv](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/831132e1-50db-4c13-be63-8b855c71eeca)
+
+![Code_DA1iUQ2y8U](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/d72bdb65-b208-4de9-8a0a-6c0b36744762)
+
+
+

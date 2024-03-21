@@ -38,15 +38,22 @@ Relational Database Visualization
 
 SQL Queries
 ---------------
-This section was for Querier the realtion database. There were 4 queries that were asked for.
 
 2 a) Find all counties that have a state tax rate lower than 4% and an unemployment rate higher than 6%. Sort them by their Annual Total Wages (for all industries) from highest to lowest.
+-----------------------------------------------------------------------------------------------------------------------------------------
+![msedge_ObY8plUdMe](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/327bb271-cddb-43b8-bfe8-31ca662dd967)
 
 
 2 b) Find the 10 counties with the highest Annual Total Wages in the Service Providing industry that also have a Coefficient of Variation for Ton-Miles greater than 20 (for the year 2012) and a labor force over 7,500.
+-----------------------------------------------------------------------------------------------------------------------------------------
+![msedge_7hIsp2whj3](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/9086cc4d-abce-4205-a337-8d0a538ff4f2)
 
 
 2 c) Find all counties with an Annual Average Pay under $40,000 and a local tax rate under 3%. Sort them from highest population to lowest.
+-----------------------------------------------------------------------------------------------------------------------------------------
+![msedge_bo082BnYZU](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/111f3770-4bcd-4e1c-9251-69a2e8110bb6)
 
 
 2 d) Find the 10 counties with the highest population whose 2012 exports value is over 25 trillion and also have a higher Annual Average Establishment Count in Construction than in Manufacturing.
+-----------------------------------------------------------------------------------------------------------------------------------------
+![msedge_HVzXZOPL5K](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/4c890b91-444f-4e64-a25e-773ec1773e57)

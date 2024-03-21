@@ -1,4 +1,4 @@
-# maintenance-and-repair-data-analyzation
+# Maintenance-And-Repair-Data-Analyzation
 This project was to create a relational database to combine all of the provided data sets into a relational database. I also need to clean up the data and in terms of missing information or null fields, and also inconsistent formatting. Key to Remeber is that across the data the state and county are the key idnetifiers.
 
 Data

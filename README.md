@@ -32,6 +32,10 @@ Workforce Wages
 ![msedge_4iYD4bKlN3](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/0635e2eb-8dee-4387-b0c3-7f1fc815fa13)
 
 
+Relational Database Visualization
+----------------------------------
+![msedge_GvDpHxt3w0](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/04d9e9bc-0ed4-47e0-b2c7-553ae2f6edb9)
+
 SQL Queries
 ---------------
 This section was for Querier the realtion database. There were 4 queries that were asked for.

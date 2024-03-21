@@ -69,9 +69,11 @@ Customer Specifications:
 Location with relatively low average wages in the service-providing industry; Location with low tax rates; Location with high median income; Location with high unemployment
 ----------------------------------------------------------------------------
 
+![Code_DA1iUQ2y8U](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/d72bdb65-b208-4de9-8a0a-6c0b36744762)
+
 ![Code_5bk5wxJ3hv](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/831132e1-50db-4c13-be63-8b855c71eeca)
 
-![Code_DA1iUQ2y8U](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/d72bdb65-b208-4de9-8a0a-6c0b36744762)
+
 
 
 

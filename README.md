@@ -65,6 +65,7 @@ For every county in the United States and export a list of all counties sorted f
 Generate an algorithm that gives a numerical score (ranging from 0 to 100) based on data and key factors that are specified by the customer.
 ---------------------------------------------------------------------------------------------------------------------------
 Customer Specifications: 
+--------------------------
 Location with relatively low average wages in the service-providing industry; Location with low tax rates; Location with high median income; Location with high unemployment
 ----------------------------------------------------------------------------
 

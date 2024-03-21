@@ -1,9 +1,35 @@
-# Maintenance-&-Repair-Data-Analyzation
+# Maintenance & Repair Data Analyzation
 This project was to create a relational database to combine all of the provided data sets into a relational database. I also need to clean up the data and in terms of missing information or null fields, and also inconsistent formatting. Key to Remeber is that across the data the state and county are the key idnetifiers.
 
 Data
 -----
+County Tax Rate
+--------------------
+![msedge_BXcvyc0kEI](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/21633840-26cd-4a8b-a30a-88d3870f1604)
 
+Exports By State 2012
+-------------------------
+![msedge_n8hHtoZ4go](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/001056ec-1f2d-4953-a015-72d62ea39684)
+
+Median County Income
+------------------------
+![msedge_YWkvhXyGW2](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/2be9100b-e820-48e6-8376-94fbaf60a38b)
+
+State Tax Rate
+-------------------------
+![msedge_6fiUZ7k8oM](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/cc92ab25-3609-4b65-b7c9-3de31345406f)
+
+Unemployment By County
+------------------------------
+![msedge_sT5hdrPBq2](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/0b4a73da-4f34-4b08-b25d-e56a7989f20a)
+
+Usa County List
+------------------------------
+![msedge_wy9KKuXpA2](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/2e7acaf3-527a-454f-876b-5d189680e19b)
+
+Workforce Wages
+-----------------------------
+![msedge_4iYD4bKlN3](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/0635e2eb-8dee-4387-b0c3-7f1fc815fa13)
 
 
 SQL Queries

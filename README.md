@@ -74,6 +74,10 @@ Location with relatively low average wages in the service-providing industry; Lo
 ![Code_5bk5wxJ3hv](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/831132e1-50db-4c13-be63-8b855c71eeca)
 
 
+Location Store Data:
+---------------------------
+![Code_RekNKKziVp](https://github.com/JohnBossco/maintenance-and-repair-data-analyzation/assets/108234177/38b2bcb4-b4bf-4049-a8f0-b7d46427ba54)
+
 
 
 

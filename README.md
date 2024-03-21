@@ -1,6 +1,11 @@
 # maintenance-and-repair-data-analyzation
 This project was to create a relational database to combine all of the provided data sets into a relational database. I also need to clean up the data and in terms of missing information or null fields, and also inconsistent formatting. Key to Remeber is that across the data the state and county are the key idnetifiers.
 
+Data
+-----
+
+
+
 SQL Queries
 ---------------
 This section was for Querier the realtion database. There were 4 queries that were asked for.
